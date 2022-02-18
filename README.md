@@ -13,7 +13,7 @@ Sobre mí:
 - 👾 Estoy cursando la capacitacion de Tecnologías de la Información y la Comunicación.
 - 🤔 Actualmente estoy en el cuarto semestre aprendiendo sobre Mantenimiento y redes de computo y Comunidades virtuales.
 - 💬 Me interesa aprender a manejar distintos programas y comprender mas sobre programación.
-- 😄 Tengo 16 años.
+
 
 --> Mi horario 
 |      Hora      |          Lunes          |               Martes              |        Miércoles       |                  Jueves                 |              Viernes             |
