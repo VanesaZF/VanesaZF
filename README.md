@@ -2,8 +2,8 @@
 
   ![](https://user-images.githubusercontent.com/99762201/154643668-3c04eb33-3c23-45b9-a5c3-78b3c3120006.png)
 
-![](https://r70.cooltext.com/rendered/cooltext405477149255234.png)
-
+ ![](https://p84.cooltext.com/Rendered/Cool%20Text%20-%20GitHub%20405477298952753.png)
+ 
 **VanesaZF / Vanesa Zamora Flores **  ✨ Estudiante ✨  `README.md`.
 
 Sobre mí:
